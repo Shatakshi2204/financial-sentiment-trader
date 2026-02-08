@@ -2,7 +2,8 @@
 
 > Real-time sentiment analysis of financial news combined with technical indicators to generate actionable trading signals
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_DEPLOYED_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]https://financial-sentiment-trader-ritgenosattaupa4nwecc4.streamlit.app/
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -20,9 +21,13 @@ This system combines **Natural Language Processing (NLP)** with **technical stoc
 
 ## 🚀 Live Demo
 
-**Try it here:** [YOUR_DEPLOYED_URL_HERE]
+**Try it here:** https://financial-sentiment-trader-ritgenosattaupa4nwecc4.streamlit.app/
 
-![Demo Screenshot](screenshot.png)
+<img width="1568" height="538" alt="image" src="https://github.com/user-attachments/assets/a9f4b11e-a26d-4cf9-a1b4-b22c1780cdea" />
+<img width="1568" height="575" alt="image" src="https://github.com/user-attachments/assets/aed85507-819f-4625-a17d-994b2c0720e8" />
+<img width="1568" height="569" alt="image" src="https://github.com/user-attachments/assets/b4b37572-6a11-45c9-b0b6-ce5b73ec20f0" />
+
+
 
 ## 🛠️ Tech Stack
 
